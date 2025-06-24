@@ -59,7 +59,6 @@
               <p class="text-center small text-muted">This is a mockup. Click a role to simulate login flow:</p>
               <div class="d-flex justify-content-center gap-2">
                 <a href="index.jsp" class="btn btn-outline-primary btn-sm">Login as Student</a>
-                <a href="dashboard.jsp" class="btn btn-outline-success btn-sm">Login as Admin</a>
                 <a href="approval.jsp" class="btn btn-outline-warning btn-sm">Login as Staff</a>
               </div>
 
